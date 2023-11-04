@@ -50,12 +50,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '🇨🇵⃞⋆ꪶ͢𝐌ʀ͙ꪆ⋆𝐋ᴄ͎𖢖𝐏ᴇ͢ᴅʀ̻̋ᴏ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.packname = '⍣  𝚸 𝚬 𝐃 𝚼 𝚶 ⏤͟͟͞͞★' 
+global.author = '⁹ ¹ ⁸ ⁵ ⁹ ⁰ ⁰ ⁴ ⁹ ⁸ ¹ ² ' 
+global.menuvid = 'https://i.imgur.com/nAC0RHi.jpeg'
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/jack_qwin._?igshid=NTc4MTIwNjQ2YQ==?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
@@ -72,7 +72,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '1' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
